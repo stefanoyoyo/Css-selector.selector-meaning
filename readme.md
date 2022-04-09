@@ -21,3 +21,13 @@ ESEMPIO: questo paragrafo viene trovato con questa regola di stile.
 .in-div.color-red.size-12 {
   background-color:blue ;
 }
+
+https://www.youtube.com/watch?v=l1mER1bV0N0&t=926s
+-----3-----
+
+
+il video di web dev simplified spiega cosa significa la notazione 
+selector.selector.selector: il non inserire gli spazi permette di indicare
+che gli elementi a cui si riferisce possiedono le classi specificate.
+Il non inserire gli spazi quindi rappresenta una sorta di operatore and. 
+L'elemento possiede la classe 1 e la classe 2 e la classe ..n.
