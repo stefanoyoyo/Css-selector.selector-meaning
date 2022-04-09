@@ -9,7 +9,7 @@
   color: red;
 } */
 
-/* Non funziona */
-.article.h1 {
+/* funziona */
+article.article h1.h1 {
   color: red;
 }
