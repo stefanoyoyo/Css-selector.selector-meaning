@@ -13,3 +13,8 @@
 article.article h1.h1 {
   color: red;
 }
+
+/** Funziona */
+.in-div.color-red.size-12 {
+  background-color:blue ;
+}
