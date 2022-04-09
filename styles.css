@@ -1,0 +1,15 @@
+
+/* Funziona */
+/* .article .h1 {
+  color: red;
+} */
+
+/* Funziona */
+/* article h1 {
+  color: red;
+} */
+
+/* Non funziona */
+.article.h1 {
+  color: red;
+}
