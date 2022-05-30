@@ -31,3 +31,14 @@ selector.selector.selector: il non inserire gli spazi permette di indicare
 che gli elementi a cui si riferisce possiedono le classi specificate.
 Il non inserire gli spazi quindi rappresenta una sorta di operatore and. 
 L'elemento possiede la classe 1 e la classe 2 e la classe ..n.
+
+-----4-----
+ 
+ • Descendant selector (space) 
+Permette di comprendere nella regola di stile tutti i figli, nipoti, sotto nipoti, ecc.. di un certo selettore.
+ • Child selector (>) 
+Permette di includere nella regola di stile solo i figlie diretti; nipoti, sotto nipoti ecc.. non sono compresi. 
+ • Adjacent Sibling Selector (+) 
+Permette di includere nella regola di stile l’elemento sullo stesso livello (fratello) più vicino.
+ • General Sibling Selector (~) 
+Permette di includere nella regola di stile tutto gli elementi sullo stesso livello (cioè tutti i fratelli).
