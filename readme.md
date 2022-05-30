@@ -1,4 +1,4 @@
------1-----
+**-----1-----**
 
 Inizio a pensarte che la notazione selettore.selettore in css voglia
 indicare
@@ -7,7 +7,7 @@ elemento_html.classe_css
 
 però se così fosse, potrei farlo solo con un elemento alla volta
 
------2-----
+**-----2-----**
 
 La notazione selettore.selettore.selettore si usa con le classi
 e si fa per comprendere tutte le classi di cui dispone un elemento,
@@ -23,7 +23,7 @@ ESEMPIO: questo paragrafo viene trovato con questa regola di stile.
 }
 
 https://www.youtube.com/watch?v=l1mER1bV0N0&t=926s
------3-----
+**-----3-----**
 
 
 il video di web dev simplified spiega cosa significa la notazione 
@@ -32,13 +32,13 @@ che gli elementi a cui si riferisce possiedono le classi specificate.
 Il non inserire gli spazi quindi rappresenta una sorta di operatore and. 
 L'elemento possiede la classe 1 e la classe 2 e la classe ..n.
 
------4-----
+**-----4-----**
  
- • Descendant selector (space) 
+ • **Descendant selector (space)**
 Permette di comprendere nella regola di stile tutti i figli, nipoti, sotto nipoti, ecc.. di un certo selettore.
- • Child selector (>) 
+ • **Child selector (>)** 
 Permette di includere nella regola di stile solo i figlie diretti; nipoti, sotto nipoti ecc.. non sono compresi. 
- • Adjacent Sibling Selector (+) 
+ • **Adjacent Sibling Selector (+)** 
 Permette di includere nella regola di stile l’elemento sullo stesso livello (fratello) più vicino.
- • General Sibling Selector (~) 
+ • **General Sibling Selector (~)** 
 Permette di includere nella regola di stile tutto gli elementi sullo stesso livello (cioè tutti i fratelli).
